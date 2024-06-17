@@ -2,9 +2,7 @@
 Jeux de hasard python IDE
 
 ## Notre règle du jeu
-Bon, la roulette, c’est très sympathique comme jeu, mais un peu trop compliqué pour
-un premier TP. Alors, on va simplifier les règles et je vous présente tout de suite ce que
-l’on obtient :
+
 — Le joueur mise sur un numéro compris entre 0 et 49 (50 en tout). En choisissant
 son numéro, il y dépose la somme qu’il souhaite miser.
 — La roulette est constituée de 50 cases allant naturellement de 0 à 49. Les numéros
